@@ -1,5 +1,3 @@
----
-
 # Reddit Comment Classification
 
 This project tackles the task of **Reddit comment classification**: predicting whether a comment violates community rules. We experiment with both embedding-based methods and direct fine-tuning of transformer models.
